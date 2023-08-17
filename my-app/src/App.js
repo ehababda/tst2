@@ -7,7 +7,7 @@ import Ticket from "./components/Ticket";
 function App() {
   //part 1 - declare vars, let , state
   const user = {
-    firstname: "ehab",
+    firstname: "ehab1",
     lastname: "Zvi",
   };
   const tickets = [
